@@ -1,0 +1,10 @@
+name: GlobalSpawn
+version: 1.0
+main: me.globalspawn.GlobalSpawn
+api-version: 1.21
+
+commands:
+  setspawn:
+    description: Set the global spawn
+  spawn:
+    description: Teleport to global spawn
